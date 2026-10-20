@@ -1,0 +1,38 @@
+TOPARA EXPLORER — PROTOTIPO ACADÉMICO
+====================================
+
+CÓMO ABRIRLO EN VISUAL STUDIO CODE
+1. Descomprime TOPARA_WebApp.zip.
+2. Abre Visual Studio Code.
+3. Ve a Archivo > Abrir carpeta y selecciona TOPARA_WebApp.
+4. Haz clic derecho sobre index.html y selecciona "Open with Live Server".
+5. Se abrirá la página en tu navegador.
+
+No requiere npm, Node.js, compilación, base de datos ni instalaciones adicionales aparte de Visual Studio Code y la extensión Live Server que ya uses.
+
+ARCHIVOS
+- index.html: estructura de la página.
+- styles.css: colores, tipografía y diseño responsivo.
+- script.js: filtros, favoritos, cronómetro, GPS, historial y formularios.
+
+FUNCIONES REALES DEL PROTOTIPO
+- Navegación y menú móvil.
+- Filtro de destinos y eventos de demostración.
+- Favoritos persistentes con localStorage.
+- Mapa OpenStreetMap con selección de destino.
+- Cronómetro, pausa y reinicio.
+- GPS con permiso del usuario y cálculo aproximado de distancia.
+- Registro e historial local de actividades.
+- Formulario de correo demostrativo (sin envío a servidor).
+- Enlaces hacia TOPARA oficial.
+
+IMPORTANTE
+- Este es un prototipo académico NO oficial de TOPARA.
+- La paleta y las fuentes son una interpretación de diseño, NO una extracción verificada del manual de marca.
+- Las fotografías de paisaje son referencias ambientales externas de Unsplash, NO fotografías oficiales de TOPARA.
+- Los eventos son ejemplos y NO convocatorias confirmadas.
+- El mapa, las imágenes y las fuentes externas requieren conexión a internet.
+- El GPS necesita autorización y un contexto seguro (localhost funciona en navegadores compatibles).
+- Para productos, precios, descuentos y catálogo actualizados, consultar https://www.topara.com.co/.
+- No se implementan cuentas reales, pagos, correo saliente ni sincronización entre dispositivos sin backend.
+- La reutilización de imágenes oficiales de TOPARA debe contar con autorización.
